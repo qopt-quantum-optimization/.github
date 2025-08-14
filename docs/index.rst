@@ -47,12 +47,12 @@ We provide a complete end-to-end framework for solving classical optimization pr
        </td>
        <td style="width:35%; vertical-align:top; text-align:center; padding-left:20px">
 
-.. image:: _static/ArgonneQuantumOptimization.png
+.. image:: _static/QuantumOptimization.png
    :width: 180px
-   :alt: Argonne Quantum Optimization Flyer
-   :target: _static/ArgonneQuantumOptimization.pdf
+   :alt: Quantum Optimization Flyer
+   :target: _static/QuantumOptimization.pdf
 
-`Download the Flyer <_static/ArgonneQuantumOptimization.pdf>`_
+`Download the Flyer <_static/QuantumOptimization.pdf>`_
 
 .. raw:: html
 
