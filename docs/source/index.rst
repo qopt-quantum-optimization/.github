@@ -49,7 +49,7 @@ We provide a complete end-to-end framework for solving classical optimization pr
 
 .. image:: _static/QuantumOptimization.png
    :width: 180px
-   :alt: Quantum Optimization Flyer
+   :alt: Argonne Quantum Optimization Flyer
    :target: _static/QuantumOptimization.pdf
 
 `Download the Flyer <_static/QuantumOptimization.pdf>`_
