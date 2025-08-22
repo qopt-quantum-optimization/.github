@@ -67,5 +67,5 @@ We provide a complete end-to-end framework for solving classical optimization pr
    tool/overview
 
 
-All tools are accessible through our public platform: `<link>`_.
+All tools are accessible through: `<link>`_.
 
