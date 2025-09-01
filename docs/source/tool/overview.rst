@@ -7,7 +7,7 @@ The following gives an overview of all repositories, ordered along the quantum s
 - `Ansatz Design <#ansatz-design>`_
 - `Circuit Compilation <#circuit-compilation>`_
 - `Classical Optimizer <#classical-optimizer>`_
-- `Application <#application>`_
+.. - `Application <#application>`_
 
 ----
 
