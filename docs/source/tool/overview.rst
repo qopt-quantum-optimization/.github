@@ -76,15 +76,10 @@ Circuit Compilation
 
     </div>
 
-.. _classical-optimizer:
+.. .. _classical-optimizer:
 
-Classical Optimizer
-===================
-
-.. _application:
-
-Application
-===========
+.. Classical Optimizer
+.. ===================
 
 .. .. raw:: html
 

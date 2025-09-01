@@ -39,7 +39,6 @@ We provide a complete end-to-end framework for solving classical optimization pr
    handbook/ansatz_design
    handbook/circuit_compilation
    handbook/classical_optimizer
-   handbook/application
    handbook/reference
 
 .. raw:: html
